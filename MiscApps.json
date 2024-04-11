@@ -1,0 +1,66 @@
+{
+    "apps": [
+        {
+            "appname": "1.1.1.1",
+            "darkstring": "name=\"dark_mode\" value=\"true\"",
+            "enabled": "false",
+            "info": "One Dot One",
+            "lightstring": "name=\"dark_mode\" value=\"false\"",
+            "packagename": "com.cloudflare.onedotonedotonedotone",
+            "preferencespath": "/data/data/com.cloudflare.onedotonedotonedotone/shared_prefs/com.cloudflare.onedotonedotonedotone_preferences.xml"
+        },
+        {
+            "appname": "Adobe Acrobat",
+            "darkstring": "name=\"lastNightMode\" value=\"true\"",
+            "enabled": "true",
+            "info": "Sets the reader in Nightmode",
+            "lightstring": "name=\"lastNightMode\" value=\"false\"",
+            "packagename": "com.adobe.reader",
+            "preferencespath": "/data/data/com.adobe.reader/shared_prefs/com.adobe.reader.preferences.xml"
+        },
+        {
+            "appname": "Click to Chat",
+            "darkstring": "name=\"lightTheme\" value=\"false\"",
+            "enabled": "true",
+            "info": "Entire app in dark",
+            "lightstring": "name=\"lightTheme\" value=\"true\"",
+            "packagename": "com.trianguloy.openInWhatsapp",
+            "preferencespath": "/data/data/com.trianguloy.openInWhatsapp/shared_prefs/com.trianguloy.openInWhatsapp_preferences.xml"
+        },
+        {
+            "appname": "Cricbuzz",
+            "darkstring": "name=\"pref_theme_night_mode\" value=\"true\"",
+            "enabled": "true",
+            "info": "Doesn't detect system theme",
+            "lightstring": "name=\"pref_theme_night_mode\" value=\"false\"",
+            "packagename": "com.cricbuzz.android",
+            "preferencespath": "/data/data/com.cricbuzz.android/shared_prefs/com.cricbuzz.android_preferences.xml"
+        },
+        {
+            "appname": "MiXplorer",
+            "darkstring": "name=\"saved_customized\">MiX Gray",
+            "enabled": "false",
+            "info": "not implemented",
+            "lightstring": "name=\"saved_customized\">",
+            "packagename": "com.mixplorer.silver",
+            "preferencespath": "/data/data/com.mixplorer.silver/shared_prefs/com.mixplorer.silver_preferences.xml"
+        },
+        {
+            "appname": "Mobilism",
+            "darkstring": "name=\"list\">1",
+            "enabled": "true",
+            "info": "trash app doesn't detect system theme",
+            "lightstring": "name=\"list\">0",
+            "packagename": "demigos.com.mobilism",
+            "preferencespath": "/data/data/demigos.com.mobilism/shared_prefs/demigos.com.mobilism_preferences.xml"
+        }
+    ],
+    "metadata": [
+        {
+            "version": "1.0"
+        },
+        {
+            "updatedate": "11.04.2024"
+        }
+    ]
+}
